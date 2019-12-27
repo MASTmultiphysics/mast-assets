@@ -1,0 +1,7 @@
+ACOSS-II Model Reference Notes
+
+The images `acoss-model-ii.png` and `acoss-model-ii-fem.png` sourced from Grandhi, R.V. and Venkayya, V.B.,
+"Structural Optimization with Frequency Constraints," AIAA Journal, Vol. 26, No. 7, 1988., pp. 858-866, which is
+declared a work of the U.S. Government and is not subject to copyright protection."
+
+All other images/animations generated using MAST and post-processing data in Paraview/ffmpeg.
